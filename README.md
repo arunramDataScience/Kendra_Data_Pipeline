@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Welcome to your CDK Python project!
 
@@ -56,3 +57,7 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+=======
+# Kendra_Data_Pipeline
+Kendra_Data_Pipeline
+>>>>>>> 11a3a8918c6de286d3761406d49d8bc9c9e56966
